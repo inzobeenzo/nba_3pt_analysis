@@ -8,9 +8,13 @@ The modern NBA has seen a dramatic increase in three-point attempts. This projec
 
 ## Data
 The dataset consists of publicly available NBA shooting and team statistics compiled across multiple seasons on Kaggle.
-All datasets used in the analysis are located in the `data/` directory.
+All datasets used in the analysis are located in the `data/archive` directory.
 
 If reproducing the analysis, ensure file paths remain relative (e.g., `data/filename.csv`).
+
+## Data Sources
+- NBA historical shooting data from Kaggle:
+  https://www.kaggle.com/datasets/sumitrodatta/nba-aba-baa-stats/data
 
 ## Methods
 - Data cleaning and exploratory analysis using tidyverse
